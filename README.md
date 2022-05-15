@@ -9,4 +9,4 @@ I started in the Programming World in 2020 and since then I haven't stopped stud
 - 💻 I learning now: TypeScript;
 - 💭 I want learning: ReactJS/React Native;
 
-- 📧 [Professional Gmail] (guilhermevitchenzopenas@gmail.com)
+- 📧 Professional Gmail - guilhermevitchenzopenas@gmail.com
