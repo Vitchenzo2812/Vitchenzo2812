@@ -7,8 +7,9 @@ I started in the Programming World in 2020 and since then I haven't stopped stud
 
 
 - 📧 Professional Gmail: [guilhermevitchenzopenas@gmail.com](mailto:guilhermevitchenzopenas@gmail.com)
-- 🧠 I'm learning: React, ReactNative, Typescript
-- 🌍  I'm based in São Paulo
+- 🧠 I'm learning: ReactNative, Vue, Typescript
+- 🌍 I'm based in São Paulo
+- 🤝 I'm open to collaborating on interesting projects
 
 ### Skills
 
@@ -21,7 +22,10 @@ I started in the Programming World in 2020 and since then I haven't stopped stud
 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="Csharp" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" height="36" alt="Git" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://styled-components.com/nav-logo.png" height="36" alt="Styled Components" /></a>
 </p>
 
 ### Badges
