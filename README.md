@@ -26,6 +26,8 @@ I started in the Programming World in 2020 and since then I haven't stopped stud
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" height="36" alt="Git" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://styled-components.com/nav-logo.png" height="36" alt="Styled Components" /></a>
+<a href="https://recoiljs.org/" target="_blank" rel="noreferrer"><img src="https://recoiljs.org/img/logo--dark.svg" height="36" alt="Recoil" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
 </p>
 
 ### Badges
