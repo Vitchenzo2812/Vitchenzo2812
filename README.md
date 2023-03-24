@@ -30,6 +30,8 @@ I started in the Programming World in 2020 and since then I haven't stopped stud
 <a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://styled-components.com/nav-logo.png" height="36" alt="Styled Components" /></a>
 <a href="https://recoiljs.org/" target="_blank" rel="noreferrer"><img src="https://recoiljs.org/img/logo--dark.svg" height="36" alt="Recoil" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://testing-library.com/" target="_blank" rel="noreferrer"><img src="https://testing-library.com/img/octopus-64x64.png" width="36" height="36" alt="React Testing Library" /></a>
+<a href="https://jestjs.io" alt="Navigate to Jest home page"><img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest" width="36" height="36"/></a>
 </p>
 
 ### Badges
