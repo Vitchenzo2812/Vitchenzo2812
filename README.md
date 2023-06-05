@@ -5,8 +5,6 @@ I'm Guilherme Vitchenzo, Software Engineering student at Anhembi Morumbi
 
 I started in the Programming World in 2020 and since then I haven't stopped study, I'm always looking for more.
 
-
-- 📧 Professional Gmail: [guilhermevitchenzopenas@gmail.com](mailto:guilhermevitchenzopenas@gmail.com)
 - 🧠 I'm learning: Vue
 - 🌍 I'm based in São Paulo
 - 🤝 I'm open to collaborating on interesting projects
